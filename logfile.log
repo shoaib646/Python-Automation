@@ -1,0 +1,27 @@
+2020-07-03 19:54:05,690 :INFO : test_e2e :Getting all product titles
+2020-07-03 19:54:05,882 :INFO : test_e2e :iphone X
+2020-07-03 19:54:05,970 :INFO : test_e2e :Samsung Note 8
+2020-07-03 19:54:06,049 :INFO : test_e2e :Nokia Edge
+2020-07-03 19:54:06,115 :INFO : test_e2e :Blackberry
+2020-07-03 19:54:13,467 :INFO : test_e2e :Product Purchased : Blackberry
+2020-07-03 19:54:13,468 :INFO : test_e2e :Product Purchased From: Austria
+2020-07-03 19:54:14,372 :INFO : test_e2e :Purchased done is Success!full
+2020-07-06 19:03:16,829 :INFO : test_e2e :Getting all product titles
+2020-07-06 19:03:17,084 :INFO : test_e2e :iphone X
+2020-07-06 19:03:17,162 :INFO : test_e2e :Samsung Note 8
+2020-07-06 19:03:17,235 :INFO : test_e2e :Nokia Edge
+2020-07-06 19:03:17,296 :INFO : test_e2e :Blackberry
+2020-07-06 19:03:25,655 :INFO : test_e2e :Product Purchased : Blackberry
+2020-07-06 19:03:25,656 :INFO : test_e2e :Product Purchased From: Austria
+2020-07-06 19:03:26,612 :INFO : test_e2e :Purchased done is Success!full
+2020-07-06 19:07:21,113 :INFO : test_formSubmission :First Name is: ellen
+2020-07-06 19:07:24,299 :INFO : test_formSubmission :First Name is: lilly
+2020-07-06 19:07:24,299 :INFO : test_formSubmission :First Name is: lilly
+2020-07-06 19:07:35,089 :INFO : test_e2e :Getting all product titles
+2020-07-06 19:07:35,535 :INFO : test_e2e :iphone X
+2020-07-06 19:07:35,595 :INFO : test_e2e :Samsung Note 8
+2020-07-06 19:07:35,675 :INFO : test_e2e :Nokia Edge
+2020-07-06 19:07:35,758 :INFO : test_e2e :Blackberry
+2020-07-06 19:07:43,676 :INFO : test_e2e :Product Purchased : Blackberry
+2020-07-06 19:07:43,677 :INFO : test_e2e :Product Purchased From: Austria
+2020-07-06 19:07:44,515 :INFO : test_e2e :Purchased done is Success!full
