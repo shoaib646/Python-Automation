@@ -3,5 +3,5 @@ import openpyxl
 
 class TestHomeData:
 
-    test_Credentials_Data = [{'Firstname':'ellen', 'Email':'ellen@yahoo.com', 'Gender':'Male'}, {'Firstname':'lilly', 'Email':'lilly@yahoo.com', 'Gender':'Female'}]
+    test_Credentials_Data = [{'Firstname':'shoaib', 'Email':'ellen@yahoo.com', 'Gender':'Male'}, {'Firstname':'clones', 'Email':'lilly@yahoo.com', 'Gender':'Female'}]
 

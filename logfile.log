@@ -25,3 +25,14 @@
 2020-07-06 19:07:43,676 :INFO : test_e2e :Product Purchased : Blackberry
 2020-07-06 19:07:43,677 :INFO : test_e2e :Product Purchased From: Austria
 2020-07-06 19:07:44,515 :INFO : test_e2e :Purchased done is Success!full
+2020-07-07 13:50:17,897 :INFO : test_formSubmission :First Name is: shoaib
+2020-07-07 13:50:21,547 :INFO : test_formSubmission :First Name is: clones
+2020-07-07 13:50:21,547 :INFO : test_formSubmission :First Name is: clones
+2020-07-07 13:50:33,731 :INFO : test_e2e :Getting all product titles
+2020-07-07 13:50:33,865 :INFO : test_e2e :iphone X
+2020-07-07 13:50:33,907 :INFO : test_e2e :Samsung Note 8
+2020-07-07 13:50:33,956 :INFO : test_e2e :Nokia Edge
+2020-07-07 13:50:33,998 :INFO : test_e2e :Blackberry
+2020-07-07 13:50:41,818 :INFO : test_e2e :Product Purchased : Blackberry
+2020-07-07 13:50:41,818 :INFO : test_e2e :Product Purchased From: Austria
+2020-07-07 13:50:43,482 :INFO : test_e2e :Purchased done is Success!full
